@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b4troo21xhxsg"
-path="res://.godot/imported/Bat Base Animation Reference.source.png-8fbf69da00ebfdfc9e413037fdbd3b01.ctex"
+uid="uid://bmgdkkn61pvpp"
+path="res://.godot/imported/spinning_head_animation_REFERENCE.png-b79e96fc1b5a1747d4cfe4252c24aa2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Bat Base Animation Reference.source.png"
-dest_files=["res://.godot/imported/Bat Base Animation Reference.source.png-8fbf69da00ebfdfc9e413037fdbd3b01.ctex"]
+source_file="res://Assets/spinning_head_animation_REFERENCE.png"
+dest_files=["res://.godot/imported/spinning_head_animation_REFERENCE.png-b79e96fc1b5a1747d4cfe4252c24aa2b.ctex"]
 
 [params]
 

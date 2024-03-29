@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="Astortion Pixel Art Animation"
-config/features=PackedStringArray("4.1", "Forward Plus")
+run/main_scene="res://Astortion Style Animation.tscn"
+config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
 [editor_plugins]

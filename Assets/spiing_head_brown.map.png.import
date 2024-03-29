@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b4troo21xhxsg"
-path="res://.godot/imported/Bat Base Animation Reference.source.png-8fbf69da00ebfdfc9e413037fdbd3b01.ctex"
+uid="uid://bxctabch814kl"
+path="res://.godot/imported/spiing_head_brown.map.png-bed8e23d0262ba8f8042ebd8785adcaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Bat Base Animation Reference.source.png"
-dest_files=["res://.godot/imported/Bat Base Animation Reference.source.png-8fbf69da00ebfdfc9e413037fdbd3b01.ctex"]
+source_file="res://Assets/spiing_head_brown.map.png"
+dest_files=["res://.godot/imported/spiing_head_brown.map.png-bed8e23d0262ba8f8042ebd8785adcaf.ctex"]
 
 [params]
 

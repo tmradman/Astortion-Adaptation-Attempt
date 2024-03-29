@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b4troo21xhxsg"
-path="res://.godot/imported/Bat Base Animation Reference.source.png-8fbf69da00ebfdfc9e413037fdbd3b01.ctex"
+uid="uid://c5img1qpiujdw"
+path="res://.godot/imported/spiing_head_pokeball_thing.map.png-6851c10327069ff82a4aea9e2dc073a6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Bat Base Animation Reference.source.png"
-dest_files=["res://.godot/imported/Bat Base Animation Reference.source.png-8fbf69da00ebfdfc9e413037fdbd3b01.ctex"]
+source_file="res://Assets/spiing_head_pokeball_thing.map.png"
+dest_files=["res://.godot/imported/spiing_head_pokeball_thing.map.png-6851c10327069ff82a4aea9e2dc073a6.ctex"]
 
 [params]
 
